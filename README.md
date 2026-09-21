@@ -141,13 +141,9 @@ Currently focused on designing and developing complex systems, advancing governe
 
 <div align="center">
 
-<a href="https://alaviarts.ir/" title="alaviarts.ir">
-  <img src="./assets/website.svg" width="46" height="46" alt="Website">
-</a>
+<a href="https://alaviarts.ir/" title="alaviarts.ir"><img src="./assets/website.svg" width="46" height="46" alt="Website"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/Alaviarts" title="@Alaviarts on Telegram">
-  <img src="./assets/telegram.svg" width="46" height="46" alt="Telegram">
-</a>
+<a href="https://t.me/Alaviarts" title="@Alaviarts on Telegram"><img src="./assets/telegram.svg" width="46" height="46" alt="Telegram"></a>
 
 <br/><br/>
 
