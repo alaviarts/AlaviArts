@@ -139,10 +139,19 @@ Currently focused on designing and developing complex systems, advancing governe
 
 ## Connect
 
-**Website** — [alaviarts.ir](https://alaviarts.ir/)  
-**Telegram** — [@Alaviarts](https://t.me/Alaviarts)
+<div align="left">
 
-<br/>
+<a href="https://alaviarts.ir/">
+  <img alt="Website" src="https://img.shields.io/badge/WEBSITE-ALAVIARTS.IR-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+&nbsp;
+<a href="https://t.me/Alaviarts">
+  <img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-%40ALAVIARTS-111111?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</div>
+
+<br/><br/>
 
 <div align="center">
 
