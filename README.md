@@ -137,23 +137,19 @@ Currently focused on designing and developing complex systems, advancing governe
 
 <br/>
 
-## Connect
-
-<div align="left">
-
-<a href="https://alaviarts.ir/">
-  <img alt="Website" src="https://img.shields.io/badge/WEBSITE-ALAVIARTS.IR-111111?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-&nbsp;
-<a href="https://t.me/Alaviarts">
-  <img alt="Telegram" src="https://img.shields.io/badge/TELEGRAM-%40ALAVIARTS-111111?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-</div>
-
-<br/><br/>
+<h2 align="center">Connect</h2>
 
 <div align="center">
+
+<a href="https://alaviarts.ir/" title="alaviarts.ir">
+  <img src="./assets/website.svg" width="46" height="46" alt="Website">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/Alaviarts" title="@Alaviarts on Telegram">
+  <img src="./assets/telegram.svg" width="46" height="46" alt="Telegram">
+</a>
+
+<br/><br/>
 
 <em>Art must flow through life.</em>
 
