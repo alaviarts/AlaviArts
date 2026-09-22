@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="526" viewBox="0 0 1200 526" role="img" aria-labelledby="cap-title cap-desc">
+<title id="cap-title">Ali Alavi's six professional capabilities</title>
+<desc id="cap-desc">Product architecture and strategy, domain and systems modeling, experience and interaction architecture, system and software architecture, operating models and governance, and human–AI collaboration.</desc>
+<defs>
+<linearGradient id="cap-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0c111c"/><stop offset="100%" stop-color="#14251f"/></linearGradient>
+</defs>
+<rect width="1200" height="526" rx="22" fill="url(#cap-bg)"/>
+<rect x="1" y="1" width="1198" height="524" rx="21" fill="none" stroke="#34544b" stroke-width="1.5"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+<text x="600" y="55" text-anchor="middle" fill="#f2f8f5" font-size="33" font-weight="750">SIX CAPABILITIES. ONE SYSTEMS PRACTICE.</text>
+<text x="600" y="83" text-anchor="middle" fill="#a9c5b9" font-size="17.5">From understanding the problem to governing what gets built</text>
+<rect x="39" y="110" width="348" height="167" rx="17" fill="#19252b" stroke="#425d56"/>
+<rect x="60" y="128" width="47" height="3.5" rx="1.75" fill="#71cdb1"/>
+<text x="351" y="141" text-anchor="end" fill="#88a79a" font-size="15.5" font-weight="750">01</text>
+<text x="61" y="184" fill="#f0f7f3" font-size="20.5" font-weight="700">PRODUCT ARCHITECTURE</text>
+<text x="61" y="211" fill="#f0f7f3" font-size="20.5" font-weight="700">&amp; STRATEGY</text>
+<text x="61" y="248" fill="#acbeb6" font-size="16.5">From complex needs to product direction</text><rect x="426" y="110" width="348" height="167" rx="17" fill="#19252b" stroke="#425d56"/>
+<rect x="447" y="128" width="47" height="3.5" rx="1.75" fill="#71cdb1"/>
+<text x="738" y="141" text-anchor="end" fill="#88a79a" font-size="15.5" font-weight="750">02</text>
+<text x="448" y="184" fill="#f0f7f3" font-size="20.5" font-weight="700">DOMAIN &amp; SYSTEMS</text>
+<text x="448" y="211" fill="#f0f7f3" font-size="20.5" font-weight="700">MODELING</text>
+<text x="448" y="248" fill="#acbeb6" font-size="16.5">Concepts, boundaries and relationships</text><rect x="813" y="110" width="348" height="167" rx="17" fill="#19252b" stroke="#425d56"/>
+<rect x="834" y="128" width="47" height="3.5" rx="1.75" fill="#71cdb1"/>
+<text x="1125" y="141" text-anchor="end" fill="#88a79a" font-size="15.5" font-weight="750">03</text>
+<text x="835" y="184" fill="#f0f7f3" font-size="20.5" font-weight="700">EXPERIENCE &amp;</text>
+<text x="835" y="211" fill="#f0f7f3" font-size="20.5" font-weight="700">INTERACTION DESIGN</text>
+<text x="835" y="248" fill="#acbeb6" font-size="16.5">Usable workflows for real people</text><rect x="39" y="304" width="348" height="167" rx="17" fill="#19252b" stroke="#425d56"/>
+<rect x="60" y="322" width="47" height="3.5" rx="1.75" fill="#a9bd89"/>
+<text x="351" y="335" text-anchor="end" fill="#88a79a" font-size="15.5" font-weight="750">04</text>
+<text x="61" y="378" fill="#f0f7f3" font-size="20.5" font-weight="700">SYSTEM &amp; SOFTWARE</text>
+<text x="61" y="405" fill="#f0f7f3" font-size="20.5" font-weight="700">ARCHITECTURE</text>
+<text x="61" y="442" fill="#acbeb6" font-size="16.5">Coherent technical structures</text><rect x="426" y="304" width="348" height="167" rx="17" fill="#19252b" stroke="#425d56"/>
+<rect x="447" y="322" width="47" height="3.5" rx="1.75" fill="#a9bd89"/>
+<text x="738" y="335" text-anchor="end" fill="#88a79a" font-size="15.5" font-weight="750">05</text>
+<text x="448" y="378" fill="#f0f7f3" font-size="20.5" font-weight="700">OPERATING MODELS</text>
+<text x="448" y="405" fill="#f0f7f3" font-size="20.5" font-weight="700">&amp; GOVERNANCE</text>
+<text x="448" y="442" fill="#acbeb6" font-size="16.5">Ownership, decisions and evidence</text><rect x="813" y="304" width="348" height="167" rx="17" fill="#19252b" stroke="#425d56"/>
+<rect x="834" y="322" width="47" height="3.5" rx="1.75" fill="#a9bd89"/>
+<text x="1125" y="335" text-anchor="end" fill="#88a79a" font-size="15.5" font-weight="750">06</text>
+<text x="835" y="378" fill="#f0f7f3" font-size="20.5" font-weight="700">HUMAN–AI</text>
+<text x="835" y="405" fill="#f0f7f3" font-size="20.5" font-weight="700">COLLABORATION</text>
+<text x="835" y="442" fill="#acbeb6" font-size="16.5">Bounded execution, human authority</text>
+<text x="600" y="506" text-anchor="middle" fill="#92b7a5" font-size="16.5">Strategy + Experience + Technology + Operations</text></g>
+</svg>
