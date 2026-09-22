@@ -132,9 +132,9 @@ From there, the product experience, technical architecture, and execution model 
 
 ## Human × AI
 
-AI is part of my practice, especially in research, analysis, documentation, and governed delivery. It is not the defining feature of every product I build.
+AI is a part of my practice, especially in research, analysis, documentation, and governed delivery. It is not the defining feature of every product I build.
 
-I design human–AI environments in which contribution and authority remain distinct. AI can extend the capacity to investigate, reason, and execute, while product meaning, accountability, and consequential decisions remain under explicit human governance.
+I design Human–AI environments in which contribution and authority remain distinct. AI can extend the capacity to investigate, reason, and execute, while product meaning, accountability, and consequential decisions remain under explicit human governance.
 
 <br/>
 
