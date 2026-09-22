@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/ali-alavi-hero-motion-v1.svg" width="100%" alt="Ali Alavi — Product &amp; Systems Architect. Designing complex products and systems across strategy, experience, technology, and operations. Connected organizations. Coherent projects. Deeper human understanding.">
+<img src="./assets/ali-alavi-hero-motion-v2.gif" width="100%" alt="Animated Ali Alavi hero: Product and Systems Architect. Subtle character glow and rotating messages: Connected organizations, Coherent projects, Deeper human understanding.">
+
+<br/>
+
+<strong>DESIGNING COMPLEX PRODUCTS AND SYSTEMS</strong><br/>
+ACROSS STRATEGY · EXPERIENCE · TECHNOLOGY · OPERATIONS
 
 <br/>
 
