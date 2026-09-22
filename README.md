@@ -1,18 +1,8 @@
 <div align="center">
 
-# Ali Alavi
-
-<strong>Product & Systems Architect</strong>
+<img src="./assets/ali-alavi-hero-motion-v1.svg" width="100%" alt="Ali Alavi — Product &amp; Systems Architect. Designing complex products and systems across strategy, experience, technology, and operations. Connected organizations. Coherent projects. Deeper human understanding.">
 
 <br/>
-
-DESIGNING COMPLEX PRODUCTS AND SYSTEMS ACROSS <strong>STRATEGY</strong>, <strong>EXPERIENCE</strong>, <strong>TECHNOLOGY</strong>, AND <strong>OPERATIONS</strong>.
-
-<br/>
-
-<em>Connected organizations. Coherent projects. Deeper human understanding.</em>
-
-<br/><br/>
 
 <kbd>Product Architecture</kbd>&nbsp;
 <kbd>Domain Modeling</kbd>&nbsp;
