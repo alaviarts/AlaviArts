@@ -34,16 +34,15 @@ That approach runs through my work at different scales: **the organization as on
 
 <br/>
 
-## What I Do
+## A Portfolio Across Three Scales
 
-| Area | Focus |
-|---|---|
-| **Product Architecture & Strategy** | Turn complex needs and ambiguous problems into clear product identities, capabilities, structures, and development paths. |
-| **Domain & Systems Modeling** | Define the concepts, relationships, responsibilities, boundaries, states, and sources of truth that make a system coherent. |
-| **Experience & Interaction Architecture** | Make complex products navigable and usable through workflows, interfaces, and information structures grounded in real user needs. |
-| **System & Software Architecture** | Translate product meaning into sound technical boundaries, data flows, contracts, and implementation structures. |
-| **Operating Models & Governance** | Connect people, decisions, authority, execution, change, and evidence without losing accountability. |
-| **Human–AI Collaboration** | Design environments where human and AI contributors can work together with explicit responsibility and decision authority. |
+My work spans independent systems for **organizations**, **projects**, and **people**, alongside explorations in market intelligence and connected knowledge.
+
+<div align="center">
+
+<img src="./assets/portfolio-ecosystem.svg" alt="Ali Alavi product ecosystem: Korven for organizations, Orylo for projects, Nustro for people, and other explorations iGold and ORBIS." width="100%">
+
+</div>
 
 <br/>
 
@@ -113,9 +112,26 @@ Three systems, three scales: **organizations, projects, and people**.
 
 <br/>
 
+## What I Do
+
+Six complementary disciplines that connect product direction, human experience, technology, and responsible execution.
+
+<div align="center">
+
+<img src="./assets/capability-matrix.svg" alt="Six capabilities: Product Architecture and Strategy; Domain and Systems Modeling; Experience and Interaction Design; System and Software Architecture; Operating Models and Governance; Human-AI Collaboration." width="100%">
+
+</div>
+
+<br/>
+
 ## How I Work
 
-**Ambiguity** → **Discover** → **Model** → **Architect** → **Build** → **Govern** → **Evidence**
+<div align="center">
+
+<img src="./assets/working-method.svg" alt="My working method: Ambiguity, Discover, Model, Architect, Build, Govern, Evidence. Each stage informs the next." width="100%">
+
+</div>
+
 
 I begin with the system behind the request: the people involved, the problems to be solved, the relationships that matter, and the information and decisions the product must preserve.
 
