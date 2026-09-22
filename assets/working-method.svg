@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="361" viewBox="0 0 1200 361" role="img" aria-labelledby="method-title method-desc">
+<title id="method-title">Ali Alavi's product development method</title>
+<desc id="method-desc">Seven connected stages: Ambiguity, Discover, Model, Architect, Build, Govern, Evidence.</desc>
+<defs>
+<linearGradient id="method-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0c111c"/><stop offset="100%" stop-color="#14251f"/></linearGradient>
+</defs>
+<rect width="1200" height="361" rx="22" fill="url(#method-bg)"/>
+<rect x="1" y="1" width="1198" height="359" rx="21" fill="none" stroke="#34544b" stroke-width="1.5"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+<text x="600" y="56" text-anchor="middle" fill="#f1f8f4" font-size="31" font-weight="750">FROM AMBIGUITY TO EVIDENCE</text>
+<text x="600" y="86" text-anchor="middle" fill="#b2c8bf" font-size="17.5">A repeatable approach to complex product and systems work</text>
+<rect x="30" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#43675d"/>
+<rect x="45" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="63.5" y="160" text-anchor="middle" fill="#a9b6c0" font-size="14.5" font-weight="750">01</text>
+<text x="103" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">AMBIGUITY</text>
+<text x="103" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Start with the</text>
+<text x="103" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">real problem</text><path d="M181 202h11m-5 -5l5 5 -5 5" fill="none" stroke="#73ac97" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/><rect x="198" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#43675d"/>
+<rect x="213" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="231.5" y="160" text-anchor="middle" fill="#71cdb1" font-size="14.5" font-weight="750">02</text>
+<text x="271" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">DISCOVER</text>
+<text x="271" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Reveal needs</text>
+<text x="271" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">and constraints</text><path d="M349 202h11m-5 -5l5 5 -5 5" fill="none" stroke="#73ac97" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/><rect x="366" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#43675d"/>
+<rect x="381" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="399.5" y="160" text-anchor="middle" fill="#71cdb1" font-size="14.5" font-weight="750">03</text>
+<text x="439" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">MODEL</text>
+<text x="439" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Define what</text>
+<text x="439" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">must connect</text><path d="M517 202h11m-5 -5l5 5 -5 5" fill="none" stroke="#73ac97" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/><rect x="534" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#43675d"/>
+<rect x="549" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="567.5" y="160" text-anchor="middle" fill="#71cdb1" font-size="14.5" font-weight="750">04</text>
+<text x="607" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">ARCHITECT</text>
+<text x="607" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Shape a</text>
+<text x="607" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">coherent system</text><path d="M685 202h11m-5 -5l5 5 -5 5" fill="none" stroke="#73ac97" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/><rect x="702" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#43675d"/>
+<rect x="717" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="735.5" y="160" text-anchor="middle" fill="#71cdb1" font-size="14.5" font-weight="750">05</text>
+<text x="775" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">BUILD</text>
+<text x="775" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Turn design</text>
+<text x="775" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">into reality</text><path d="M853 202h11m-5 -5l5 5 -5 5" fill="none" stroke="#73ac97" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/><rect x="870" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#43675d"/>
+<rect x="885" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="903.5" y="160" text-anchor="middle" fill="#71cdb1" font-size="14.5" font-weight="750">06</text>
+<text x="943" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">GOVERN</text>
+<text x="943" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Preserve intent</text>
+<text x="943" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">and ownership</text><path d="M1021 202h11m-5 -5l5 5 -5 5" fill="none" stroke="#73ac97" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/><rect x="1038" y="125" width="146" height="154" rx="16" fill="#1b2b2a" stroke="#b68e54"/>
+<rect x="1053" y="141" width="37" height="28" rx="8" fill="#273b39"/>
+<text x="1071.5" y="160" text-anchor="middle" fill="#e7bf83" font-size="14.5" font-weight="750">07</text>
+<text x="1111" y="206" text-anchor="middle" fill="#f1f7f2" font-size="18.5" font-weight="750">EVIDENCE</text>
+<text x="1111" y="236" text-anchor="middle" fill="#b0c7be" font-size="14.5">Verify outcomes</text>
+<text x="1111" y="257" text-anchor="middle" fill="#b0c7be" font-size="14.5">and decisions</text>
+<text x="600" y="330" text-anchor="middle" fill="#a8c9b7" font-size="18" font-weight="600">Understand the system   ·   Design with intent   ·   Deliver with evidence</text></g>
+</svg>
