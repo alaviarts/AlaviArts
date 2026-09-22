@@ -8,13 +8,17 @@
 
 Designing complex products and systems across <strong>strategy</strong>, <strong>experience</strong>, <strong>technology</strong>, and <strong>operations</strong>.
 
+<br/>
+
+<em>Connected organizations. Coherent projects. Deeper human understanding.</em>
+
 <br/><br/>
 
 <kbd>Product Architecture</kbd>&nbsp;
 <kbd>Domain Modeling</kbd>&nbsp;
 <kbd>Systems Design</kbd>&nbsp;
-<kbd>Execution Architecture</kbd>&nbsp;
-<kbd>Human × AI</kbd>
+<kbd>Experience Architecture</kbd>&nbsp;
+<kbd>Governed Execution</kbd>
 
 </div>
 
@@ -22,11 +26,11 @@ Designing complex products and systems across <strong>strategy</strong>, <strong
 
 ## About
 
-I design and develop complex digital products and systems — especially where the problem is still ambiguous and the structure has to be discovered before it can be built.
+I design and develop complex digital products and systems — particularly when the problem spans multiple domains and its underlying structure needs to be discovered before it can be built.
 
-My work spans **product strategy, domain modeling, experience architecture, system architecture, operating models, and execution design**. I focus on bringing business logic, human experience, information, technology, and operations into one coherent system.
+My work connects **product strategy, domain modeling, human experience, software architecture, and operating models**. I focus on bringing fragmented activities, information, responsibilities, and decisions into coherent systems that people can understand and use.
 
-I am less interested in isolated features than in the relationships that make a product work as a whole: **what is true, who owns what, how information moves, where decisions live, how execution is governed, and how the system remains understandable as it grows.**
+That approach runs through my work at different scales: **the organization as one operational system, the project as one shared reality, and the individual as a multidimensional whole**. The products differ, but the architectural question is consistent: how do we preserve meaning and continuity while a complex system evolves?
 
 <br/>
 
@@ -34,63 +38,60 @@ I am less interested in isolated features than in the relationships that make a 
 
 | Area | Focus |
 |---|---|
-| **Product Architecture & Strategy** | Turning ambiguous problems, needs, and opportunities into coherent product structures and development paths. |
-| **Domain & Complex Systems Modeling** | Defining entities, relationships, rules, boundaries, states, and sources of truth. |
-| **Experience & Interaction Architecture** | Translating system structure into interfaces and workflows that remain understandable to people. |
-| **System & Software Architecture** | Designing technical boundaries, contracts, data flows, modules, and implementation structures around product meaning. |
-| **Operating Models & Governance** | Structuring responsibility, authority, decisions, change control, evidence, and execution. |
-| **Human–AI Systems** | Designing governed environments where AI can support research, reasoning, and execution without obscuring human authority. |
+| **Product Architecture & Strategy** | Turn complex needs and ambiguous problems into clear product identities, capabilities, structures, and development paths. |
+| **Domain & Systems Modeling** | Define the concepts, relationships, responsibilities, boundaries, states, and sources of truth that make a system coherent. |
+| **Experience & Interaction Architecture** | Make complex products navigable and usable through workflows, interfaces, and information structures grounded in real user needs. |
+| **System & Software Architecture** | Translate product meaning into sound technical boundaries, data flows, contracts, and implementation structures. |
+| **Operating Models & Governance** | Connect people, decisions, authority, execution, change, and evidence without losing accountability. |
+| **Human–AI Collaboration** | Design environments where human and AI contributors can work together with explicit responsibility and decision authority. |
 
 <br/>
 
-## Selected Systems
+## Featured Systems
+
+Three product directions illustrate how I approach connected systems at the organizational, project, and individual levels.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<strong><a href="https://github.com/alaviarts/Korven">KORVEN</a></strong><br/>
-<em>Integrated Organizational Operations Platform</em>
+### [KORVEN™](https://github.com/alaviarts/Korven)
 
-<p>Connects organizational structure, responsibility, data, processes, work, and traceable information within one operational model.</p>
+**Organization in Flow**  
+*Integrated Organizational Operations Platform*
+
+Korven is designed to bring capabilities traditionally spread across **ERP, CRM, BPM, HR, inventory, finance, production, and reporting** into one connected operational platform.
+
+It models the organization itself — its structure, responsibilities, workflows, business data, and information — so organizations can shape and grow their operations in a shared environment.
+
+**One Organization. One Operational System.**
 
 </td>
 <td width="50%" valign="top">
 
-<strong><a href="https://github.com/alaviarts/Orylo">ORYLO</a></strong><br/>
-<em>Governed Project Delivery Workspace</em>
+### [ORYLO™](https://github.com/alaviarts/Orylo)
 
-<p>Turns human intent into canonical project definition, controlled execution, and traceable delivery across people, AI agents, documents, Git, decisions, and evidence.</p>
+**Many Contributors. One Project Reality.**  
+*Governed Project Delivery Platform*
+
+Orylo keeps complex projects coherent across people, AI, knowledge, decisions, execution, and delivery.
+
+It connects project understanding to structured product development, explicit authority, governed work, and traceable evidence — maintaining continuity as contributors, tools, and implementations change.
 
 </td>
 </tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<strong><a href="https://github.com/alaviarts/Nustro">NUSTRO</a></strong><br/>
-<em>Structured Personal Insight System</em>
-
-<p>Transforms multi-framework analytical inputs into a canonical identity model, narrative synthesis, and context-aware coaching.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<strong><a href="https://github.com/alaviarts/iGold">iGOLD</a></strong><br/>
-<em>Market Intelligence Workspace</em>
-
-<p>A local-first environment for crypto market structure research, combining real-time ingestion, canonical DNA data layers, quality-aware charting, and analysis.</p>
-
-</td>
-</tr>
-
 <tr>
 <td colspan="2" valign="top">
 
-<strong><a href="https://github.com/alaviarts/ORBIS">ORBIS</a></strong><br/>
-<em>The Solar System of Human Knowledge</em>
+### [NUSTRO™](https://github.com/alaviarts/Nustro)
 
-<p>An evolving exploration of how human knowledge can be represented as an interconnected system rather than a flat collection of information.</p>
+**Multidimensional Human Insight · Identity · Personal Guidance**
+
+Nustro brings multiple perspectives on the individual into a more coherent foundation for self-understanding and personal development.
+
+Its core concepts include **NDNA™**, a persistent identity reference, and **NCCM™**, an identity-anchored coaching model that connects personal understanding with present circumstances and real challenges.
+
+**Self-Knowledge → Identity → Understanding → Guidance → Growth**
 
 </td>
 </tr>
@@ -98,13 +99,42 @@ I am less interested in isolated features than in the relationships that make a 
 
 <br/>
 
+## Other Explorations
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [iGold](https://github.com/alaviarts/iGold)
+
+*Market Intelligence Workspace*
+
+A local-first direction for cryptocurrency market-structure research, data ingestion, quality-aware charting, and analysis.
+
+</td>
+<td width="50%" valign="top">
+
+### [ORBIS](https://github.com/alaviarts/ORBIS)
+
+*The Solar System of Human Knowledge*
+
+An exploration of human knowledge as an interconnected system rather than a flat collection of information.
+
+</td>
+</tr>
+</table>
+
+<sub>Public product dossiers for iGold and ORBIS are still being prepared.</sub>
+
+<br/>
+
 ## How I Work
 
 **Ambiguity** → **Discover** → **Model** → **Architect** → **Build** → **Govern** → **Evidence**
 
-I usually do not begin with a tool, a screen, or a technology choice. I begin by identifying the underlying system: its actors, truths, relationships, constraints, decisions, and flows.
+I begin with the system behind the request: the people involved, the problems to be solved, the relationships that matter, and the information and decisions the product must preserve.
 
-From there, product structure, experience, technical architecture, and execution can be designed around the same model instead of drifting into separate interpretations.
+From there, the product experience, technical architecture, and execution model can be developed around one coherent understanding rather than becoming separate interpretations of the same problem.
 
 ### Operating Principles
 
@@ -117,23 +147,23 @@ From there, product structure, experience, technical architecture, and execution
 
 ## Human × AI
 
-AI is part of my practice, but not the center of my professional identity.
+AI is part of my practice, especially in research, analysis, documentation, and governed delivery. It is not the defining feature of every product I build.
 
-I design environments in which AI can act as a **cognitive and execution layer** for research, analysis, documentation, and bounded implementation — while human authority, system integrity, canonical knowledge, and product decisions remain explicit.
-
-The goal is not to replace judgment with automation. It is to make complex work more structured, traceable, and capable.
+I design human–AI environments in which contribution and authority remain distinct. AI can extend the capacity to investigate, reason, and execute, while product meaning, accountability, and consequential decisions remain under explicit human governance.
 
 <br/>
 
 ## Current Focus
 
-<code>Complex Systems</code>&nbsp;
-<code>Product Architecture</code>&nbsp;
 <code>Organizational Operations</code>&nbsp;
-<code>Governed Execution</code>&nbsp;
+<code>Governed Project Delivery</code>&nbsp;
+<code>Human Insight Systems</code>&nbsp;
+<code>Product Architecture</code>&nbsp;
 <code>Human–AI Collaboration</code>
 
-Currently focused on designing and developing complex systems, advancing governed human–AI collaboration models, and turning long-running internal projects into clear, usable, and extensible products.
+My current work centers on developing **Korven**, advancing **Orylo** as a governed delivery platform, and refining **Nustro** as a persistent foundation for personal understanding and guidance.
+
+These systems are under active development. Their public repositories present their product vision, intended capabilities, and selected conceptual architecture; proprietary implementation remains private.
 
 <br/>
 
