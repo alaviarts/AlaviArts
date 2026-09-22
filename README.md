@@ -1,13 +1,18 @@
 <div align="center">
 
-<img src="./assets/ali-alavi-hero-motion-v2.gif" width="100%" alt="Animated Ali Alavi hero: Product and Systems Architect. Subtle character glow and rotating messages: Connected organizations, Coherent projects, Deeper human understanding.">
+# Ali Alavi
+
+<strong>Product &amp; Systems Architect</strong>
 
 <br/>
 
-<strong>DESIGNING COMPLEX PRODUCTS AND SYSTEMS</strong><br/>
-ACROSS STRATEGY · EXPERIENCE · TECHNOLOGY · OPERATIONS
+<strong>DESIGNING COMPLEX PRODUCTS AND SYSTEMS ACROSS STRATEGY, EXPERIENCE, TECHNOLOGY, AND OPERATIONS.</strong>
 
-<br/>
+<br/><br/>
+
+<em>Connected organizations. Coherent projects. Deeper human understanding.</em>
+
+<br/><br/>
 
 <kbd>Product Architecture</kbd>&nbsp;
 <kbd>Domain Modeling</kbd>&nbsp;
