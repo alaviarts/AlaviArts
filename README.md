@@ -54,45 +54,28 @@ Three product directions illustrate how I approach connected systems at the orga
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [KORVEN™](https://github.com/alaviarts/Korven)
-
-**Organization in Flow**  
-*Integrated Organizational Operations Platform*
-
-Korven is designed to bring capabilities traditionally spread across **ERP, CRM, BPM, HR, inventory, finance, production, and reporting** into one connected operational platform.
-
-It models the organization itself — its structure, responsibilities, workflows, business data, and information — so organizations can shape and grow their operations in a shared environment.
-
-**One Organization. One Operational System.**
-
+<h3><a href="https://github.com/alaviarts/Korven">KORVEN™</a></h3>
+<p><strong>Organization in Flow</strong><br/>
+<em>Integrated Organizational Operations Platform</em></p>
+<p>Korven is designed to bring capabilities traditionally spread across <strong>ERP, CRM, BPM, HR, inventory, finance, production, and reporting</strong> into one connected operational platform.</p>
+<p>It models the organization itself — its structure, responsibilities, workflows, business data, and information — so organizations can shape and grow their operations in a shared environment.</p>
+<p><strong>One Organization. One Operational System.</strong></p>
 </td>
 <td width="50%" valign="top">
-
-### [ORYLO™](https://github.com/alaviarts/Orylo)
-
-**Many Contributors. One Project Reality.**  
-*Governed Project Delivery Platform*
-
-Orylo keeps complex projects coherent across people, AI, knowledge, decisions, execution, and delivery.
-
-It connects project understanding to structured product development, explicit authority, governed work, and traceable evidence — maintaining continuity as contributors, tools, and implementations change.
-
+<h3><a href="https://github.com/alaviarts/Orylo">ORYLO™</a></h3>
+<p><strong>Many Contributors. One Project Reality.</strong><br/>
+<em>Governed Project Delivery Platform</em></p>
+<p>Orylo keeps complex projects coherent across people, AI, knowledge, decisions, execution, and delivery.</p>
+<p>It connects project understanding to structured product development, explicit authority, governed work, and traceable evidence — maintaining continuity as contributors, tools, and implementations change.</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-
-### [NUSTRO™](https://github.com/alaviarts/Nustro)
-
-**Multidimensional Human Insight · Identity · Personal Guidance**
-
-Nustro brings multiple perspectives on the individual into a more coherent foundation for self-understanding and personal development.
-
-Its core concepts include **NDNA™**, a persistent identity reference, and **NCCM™**, an identity-anchored coaching model that connects personal understanding with present circumstances and real challenges.
-
-**Self-Knowledge → Identity → Understanding → Guidance → Growth**
-
+<h3><a href="https://github.com/alaviarts/Nustro">NUSTRO™</a></h3>
+<p><strong>Multidimensional Human Insight · Identity · Personal Guidance</strong></p>
+<p>Nustro brings multiple perspectives on the individual into a more coherent foundation for self-understanding and personal development.</p>
+<p>Its core concepts include <strong>NDNA™</strong>, a persistent identity reference, and <strong>NCCM™</strong>, an identity-anchored coaching model that connects personal understanding with present circumstances and real challenges.</p>
+<p><strong>Self-Knowledge → Identity → Understanding → Guidance → Growth</strong></p>
 </td>
 </tr>
 </table>
@@ -104,22 +87,14 @@ Its core concepts include **NDNA™**, a persistent identity reference, and **NC
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### [iGold](https://github.com/alaviarts/iGold)
-
-*Market Intelligence Workspace*
-
-A local-first direction for cryptocurrency market-structure research, data ingestion, quality-aware charting, and analysis.
-
+<h3><a href="https://github.com/alaviarts/iGold">iGold</a></h3>
+<p><em>Market Intelligence Workspace</em></p>
+<p>A local-first direction for cryptocurrency market-structure research, data ingestion, quality-aware charting, and analysis.</p>
 </td>
 <td width="50%" valign="top">
-
-### [ORBIS](https://github.com/alaviarts/ORBIS)
-
-*The Solar System of Human Knowledge*
-
-An exploration of human knowledge as an interconnected system rather than a flat collection of information.
-
+<h3><a href="https://github.com/alaviarts/ORBIS">ORBIS</a></h3>
+<p><em>The Solar System of Human Knowledge</em></p>
+<p>An exploration of human knowledge as an interconnected system rather than a flat collection of information.</p>
 </td>
 </tr>
 </table>
