@@ -6,7 +6,7 @@
 
 <br/>
 
-Designing complex products and systems across <strong>strategy</strong>, <strong>experience</strong>, <strong>technology</strong>, and <strong>operations</strong>.
+DESIGNING COMPLEX PRODUCTS AND SYSTEMS ACROSS <strong>STRATEGY</strong>, <strong>EXPERIENCE</strong>, <strong>TECHNOLOGY</strong>, AND <strong>OPERATIONS</strong>.
 
 <br/>
 
