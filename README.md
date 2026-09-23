@@ -30,7 +30,7 @@ I design and develop complex digital products and systems — particularly when 
 
 My work connects **product strategy, domain modeling, human experience, software architecture, and operating models**. I focus on bringing fragmented activities, information, responsibilities, and decisions into coherent systems that people can understand and use.
 
-That approach runs through my work at different scales: **the organization as one operational system, the project as one shared reality, and the individual as a multidimensional whole**. The products differ, but the architectural question is consistent: how do we preserve meaning and continuity while a complex system evolves?
+That approach now spans **financial markets, collaborative projects, individual insight, and organizational operations**. Different domains, but one consistent architectural question: how can a complex problem become a coherent, usable, and evolving system?
 
 <br/>
 
@@ -203,15 +203,16 @@ I design Human–AI environments in which contribution and authority remain dist
 
 ## Current Focus
 
-<code>Organizational Operations</code>&nbsp;
+<code>Product Architecture</code>&nbsp;
+<code>Market Intelligence</code>&nbsp;
 <code>Governed Project Delivery</code>&nbsp;
 <code>Human Insight Systems</code>&nbsp;
-<code>Product Architecture</code>&nbsp;
+<code>Organizational Operations</code>&nbsp;
 <code>Human–AI Collaboration</code>
 
-My current work centers on developing **Korven**, advancing **Orylo** as a governed delivery platform, and refining **Nustro** as a persistent foundation for personal understanding and guidance.
+My product work spans **iGold**, **Orylo**, **Nustro**, and **Korven**: four distinct domains connected by a shared practice of understanding problems, modeling their underlying relationships, and architecting integrated systems.
 
-These systems are under active development. Their public repositories present their product vision, intended capabilities, and selected conceptual architecture; proprietary implementation remains private.
+These projects are evolving at different stages. Their public repositories present the product vision, intended capabilities, and selected conceptual architecture; proprietary implementation remains private.
 
 <br/>
 
