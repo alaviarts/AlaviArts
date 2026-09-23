@@ -34,81 +34,128 @@ That approach runs through my work at different scales: **the organization as on
 
 <br/>
 
-## A Portfolio Across Three Scales
+## My Journey — From Solving Problems to Architecting Systems
 
-My work spans independent systems for **organizations**, **projects**, and **people**, alongside explorations in market intelligence and connected knowledge.
+**April 2025 — June 2026** · A progression from an independent business decision to the architecture of four products across markets, projects, people, and organizations.
+
+What began as a specific problem in financial markets led me into AI-assisted development, software and systems architecture, human–AI collaboration, and the study of my own problem-solving patterns. Along the way, the same approach took shape across different domains: **understand the underlying problem, model the relationships, and design a coherent system around them.**
 
 <div align="center">
 
-<img src="./assets/portfolio-ecosystem.svg" alt="Ali Alavi product ecosystem: Korven for organizations, Orylo for projects, Nustro for people, and other explorations iGold and ORBIS." width="100%">
+<img src="./assets/product-architecture-journey.svg" width="100%" alt="Ali Alavi's product architecture timeline: April 2025 iGold and independent development; July 2025 Orylo; September 2025 Nustro; April 2026 Nustro 3.5; May 2026 product and systems architecture; June 2026 Korven.">
 
 </div>
 
 <br/>
 
-## Featured Systems
-
-Three systems, three scales: **organizations, projects, and people**.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="19%" valign="top">
 
-<h3><a href="https://github.com/alaviarts/Korven">KORVEN™</a></h3>
-<p><strong>Organization in Flow</strong><br/>
-<em>Integrated Organizational Operations Platform</em></p>
-<p>One connected platform designed to bring ERP, CRM, BPM, and other organizational operations into a shared system.</p>
-<p><a href="https://github.com/alaviarts/Korven"><strong>Read more →</strong></a></p>
+**APR 2025**
+
+<sub>01 · THE PIVOT</sub>
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
-<h3><a href="https://github.com/alaviarts/Orylo">ORYLO™</a></h3>
-<p><strong>Many Contributors. One Project Reality.</strong><br/>
-<em>Governed Project Delivery Platform</em></p>
-<p>Keeps people, AI, decisions, and execution aligned around one shared project reality.</p>
-<p><a href="https://github.com/alaviarts/Orylo"><strong>Read more →</strong></a></p>
+### Independent Development & [iGold™](https://github.com/alaviarts/iGold)
+
+I decided to move beyond employment and freelance work toward building my own products and businesses. My entry into trading raised the first question: how could a system identify developing market activity and support more informed, algorithmic decision-making? Pursuing it led to iGold—and to exploring AI's capabilities while expanding my knowledge of software development and system architecture.
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td valign="top">
 
-<h3><a href="https://github.com/alaviarts/Nustro">NUSTRO™</a></h3>
-<p><em>Multidimensional Human Insight · Identity · Personal Guidance</em></p>
-<p>Connects deeper self-understanding with persistent identity (NDNA™) and identity-anchored coaching (NCCM™).</p>
-<p><a href="https://github.com/alaviarts/Nustro"><strong>Read more →</strong></a></p>
+**JUL 2025**
+
+<sub>02 · HUMAN + AI</sub>
+
+</td>
+<td valign="top">
+
+### [Orylo™](https://github.com/alaviarts/Orylo) — Coordinating Complex Development
+
+As I began working with AI agents, a new challenge emerged: keeping people, agents, decisions, and execution aligned. I conceived Orylo as a governed environment where human and AI contributors can work from a coherent understanding of the same project.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**SEP 2025**
+
+<sub>03 · HUMAN INSIGHT</sub>
+
+</td>
+<td valign="top">
+
+### [Nustro™](https://github.com/alaviarts/Nustro) — Exploring the Individual as a System
+
+My interest in understanding my own capabilities led me to investigate self-knowledge, cognitive perspectives, identity, and recurring behavioral patterns. Nustro emerged as an attempt to bring multiple perspectives on the individual into a structured, multidimensional model.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**APR 2026**
+
+<sub>04 · MODEL EVOLUTION</sub>
+
+</td>
+<td valign="top">
+
+### Nustro 3.5 — From Insight to Guidance
+
+Nustro evolved to version 3.5, bringing its identity-oriented understanding and personal-guidance approach into a more developed system. This work also created a richer framework for examining my own experience, decisions, and ways of approaching problems.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**MAY 2026**
+
+<sub>05 · PROFESSIONAL DIRECTION</sub>
+
+</td>
+<td valign="top">
+
+### Recognizing My Architectural Practice
+
+Bringing together self-reflection, professional experience, and a closer examination of my recurring problem-solving patterns clarified my direction. My combination of analytical thinking, design experience, technical learning, and systems-oriented reasoning pointed toward **product and complex-systems architecture**.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**JUN 2026**
+
+<sub>06 · PRODUCT ARCHITECTURE</sub>
+
+</td>
+<td valign="top">
+
+### Professional Repositioning & [Korven™](https://github.com/alaviarts/Korven)
+
+I repositioned my professional practice around Product & Systems Architecture. In a meeting to understand a client's organizational needs, this approach led to Korven: a connected platform conceived to bring organizational structure, business data, operational processes, and decision-making information into one system.
 
 </td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-## Other Explorations
+**Four products. Four domains. One evolving architectural practice.**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>[iGold — Market Intelligence](https://github.com/alaviarts/iGold) · [Orylo — Governed Delivery](https://github.com/alaviarts/Orylo) · [Nustro — Human Insight](https://github.com/alaviarts/Nustro) · [Korven — Organizational Operations](https://github.com/alaviarts/Korven)</sub>
 
-<h3><a href="https://github.com/alaviarts/iGold">iGold</a></h3>
-<p><em>Market Intelligence Workspace</em></p>
-<p>Local-first crypto market research and analysis.</p>
-<p><a href="https://github.com/alaviarts/iGold"><strong>View repository →</strong></a></p>
+</div>
 
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/alaviarts/ORBIS">ORBIS</a></h3>
-<p><em>The Solar System of Human Knowledge</em></p>
-<p>Exploring human knowledge as an interconnected system.</p>
-<p><a href="https://github.com/alaviarts/ORBIS"><strong>View repository →</strong></a></p>
-
-</td>
-</tr>
-</table>
-
-<sub>Public product dossiers for iGold and ORBIS are still being prepared.</sub>
+<sub>Also exploring [ORBIS](https://github.com/alaviarts/ORBIS), an interconnected view of human knowledge.</sub>
 
 <br/>
 
