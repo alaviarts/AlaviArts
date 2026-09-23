@@ -34,15 +34,13 @@ That approach now spans **financial markets, collaborative projects, individual 
 
 <br/>
 
-## My Journey — From Solving Problems to Architecting Systems
+## The Path to Product & Systems Architecture
 
-**April 2025 — June 2026** · A progression from an independent business decision to the architecture of four products across markets, projects, people, and organizations.
-
-What began as a specific problem in financial markets led me into AI-assisted development, software and systems architecture, human–AI collaboration, and the study of my own problem-solving patterns. Along the way, the same approach took shape across different domains: **understand the underlying problem, model the relationships, and design a coherent system around them.**
+**April 2025 to June 2026.** A transition from employment and freelance work to independent product development, spanning four products and a clearer professional direction.
 
 <div align="center">
 
-<img src="./assets/product-architecture-journey.svg" width="100%" alt="Ali Alavi's product architecture timeline: April 2025 iGold and independent development; July 2025 Orylo; September 2025 Nustro; April 2026 Nustro 3.5; May 2026 product and systems architecture; June 2026 Korven.">
+<img src="./assets/product-architecture-journey.svg" width="100%" alt="Six milestones: iGold in April 2025, Orylo in July 2025, Nustro in September 2025, Nustro 3.5 with NDNA and NCCM in April 2026, the choice of Product and Systems Architecture in May 2026, and Korven in June 2026.">
 
 </div>
 
@@ -50,98 +48,68 @@ What began as a specific problem in financial markets led me into AI-assisted de
 
 <table>
 <tr>
-<td width="19%" valign="top">
-
-**APR 2025**
-
-<sub>01 · THE PIVOT</sub>
-
-</td>
+<td width="18%" valign="top"><strong>APR 2025</strong><br/><sub>INDEPENDENT DEVELOPMENT</sub></td>
 <td valign="top">
 
-### Independent Development & [iGold™](https://github.com/alaviarts/iGold)
+<h3><a href="https://github.com/alaviarts/iGold">iGold™</a></h3>
+<p><sub>CRYPTO MARKET INTELLIGENCE &amp; TRADING RESEARCH</sub></p>
 
-I decided to move beyond employment and freelance work toward building my own products and businesses. My entry into trading raised the first question: how could a system identify developing market activity and support more informed, algorithmic decision-making? Pursuing it led to iGold—and to exploring AI's capabilities while expanding my knowledge of software development and system architecture.
+<p>I decided to move from employment and freelance work toward building my own products and businesses. A question that emerged from trading became iGold: a platform conceived to investigate developing market movements and support algorithmic decision-making. Pursuing it introduced me to AI-assisted development and accelerated my learning in software and systems architecture.</p>
 
 </td>
 </tr>
 <tr>
+<td valign="top"><strong>JUL 2025</strong><br/><sub>HUMAN + AI COLLABORATION</sub></td>
 <td valign="top">
 
-**JUL 2025**
+<h3><a href="https://github.com/alaviarts/Orylo">Orylo™</a></h3>
+<p><sub>GOVERNED PROJECT DELIVERY</sub></p>
 
-<sub>02 · HUMAN + AI</sub>
-
-</td>
-<td valign="top">
-
-### [Orylo™](https://github.com/alaviarts/Orylo) — Coordinating Complex Development
-
-As I began working with AI agents, a new challenge emerged: keeping people, agents, decisions, and execution aligned. I conceived Orylo as a governed environment where human and AI contributors can work from a coherent understanding of the same project.
+<p>Working with AI agents revealed a new problem: how to coordinate people, agents, decisions, and execution without losing a shared understanding of the project. Orylo took shape as a platform for coherent human–AI collaboration and governed delivery.</p>
 
 </td>
 </tr>
 <tr>
+<td valign="top"><strong>SEP 2025</strong><br/><sub>SELF-KNOWLEDGE</sub></td>
 <td valign="top">
 
-**SEP 2025**
+<h3><a href="https://github.com/alaviarts/Nustro">Nustro™</a></h3>
+<p><sub>MULTIDIMENSIONAL HUMAN INSIGHT</sub></p>
 
-<sub>03 · HUMAN INSIGHT</sub>
-
-</td>
-<td valign="top">
-
-### [Nustro™](https://github.com/alaviarts/Nustro) — Exploring the Individual as a System
-
-My interest in understanding my own capabilities led me to investigate self-knowledge, cognitive perspectives, identity, and recurring behavioral patterns. Nustro emerged as an attempt to bring multiple perspectives on the individual into a structured, multidimensional model.
+<p>My search for a deeper understanding of my own capabilities led me into cognitive science, self-knowledge, identity, and behavioral patterns. Nustro began as a system for bringing these different perspectives into a coherent understanding of the individual.</p>
 
 </td>
 </tr>
 <tr>
+<td valign="top"><strong>APR 2026</strong><br/><sub>PRODUCT EVOLUTION</sub></td>
 <td valign="top">
 
-**APR 2026**
+<h3><a href="https://github.com/alaviarts/Nustro">Nustro™ 3.5</a></h3>
+<p><strong>NDNA™</strong> <sub>NUSTRO DNA</sub> &nbsp;·&nbsp; <strong>NCCM™</strong> <sub>NUSTRO COSMOS COACHING MODEL</sub></p>
 
-<sub>04 · MODEL EVOLUTION</sub>
-
-</td>
-<td valign="top">
-
-### Nustro 3.5 — From Insight to Guidance
-
-Nustro evolved to version 3.5, bringing its identity-oriented understanding and personal-guidance approach into a more developed system. This work also created a richer framework for examining my own experience, decisions, and ways of approaching problems.
+<p>This release introduced two core Nustro models: <strong>NDNA</strong>, a persistent reference for multidimensional identity, and <strong>NCCM</strong>, an identity-anchored coaching model that connects self-understanding with current challenges and personal guidance.</p>
 
 </td>
 </tr>
 <tr>
+<td valign="top"><strong>MAY 2026</strong><br/><sub>PROFESSIONAL MILESTONE</sub></td>
 <td valign="top">
 
-**MAY 2026**
+<h3>Product &amp; Systems Architecture</h3>
+<p><sub>DEFINING MY PROFESSIONAL DIRECTION</sub></p>
 
-<sub>05 · PROFESSIONAL DIRECTION</sub>
-
-</td>
-<td valign="top">
-
-### Recognizing My Architectural Practice
-
-Bringing together self-reflection, professional experience, and a closer examination of my recurring problem-solving patterns clarified my direction. My combination of analytical thinking, design experience, technical learning, and systems-oriented reasoning pointed toward **product and complex-systems architecture**.
+<p>Using Nustro to examine my thinking, recurring problem-solving patterns, experiences, and skills helped me identify the direction that brought them together: architecting complex products and systems.</p>
 
 </td>
 </tr>
 <tr>
+<td valign="top"><strong>JUN 2026</strong><br/><sub>PROFESSIONAL REPOSITIONING</sub></td>
 <td valign="top">
 
-**JUN 2026**
+<h3><a href="https://github.com/alaviarts/Korven">Korven™</a></h3>
+<p><sub>INTEGRATED ORGANIZATIONAL OPERATIONS</sub></p>
 
-<sub>06 · PRODUCT ARCHITECTURE</sub>
-
-</td>
-<td valign="top">
-
-### Professional Repositioning & [Korven™](https://github.com/alaviarts/Korven)
-
-I repositioned my professional practice around Product & Systems Architecture. In a meeting to understand a client's organizational needs, this approach led to Korven: a connected platform conceived to bring organizational structure, business data, operational processes, and decision-making information into one system.
+<p>I repositioned my practice around Product &amp; Systems Architecture. In a meeting about a client's organizational needs, this approach led to Korven: a platform conceived to connect organizational structure, business data, operational processes, and information for decision-making.</p>
 
 </td>
 </tr>
@@ -149,13 +117,18 @@ I repositioned my professional practice around Product & Systems Architecture. I
 
 <div align="center">
 
-**Four products. Four domains. One evolving architectural practice.**
+<strong>Four products. Four domains. One evolving practice.</strong>
 
-<sub>[iGold — Market Intelligence](https://github.com/alaviarts/iGold) · [Orylo — Governed Delivery](https://github.com/alaviarts/Orylo) · [Nustro — Human Insight](https://github.com/alaviarts/Nustro) · [Korven — Organizational Operations](https://github.com/alaviarts/Korven)</sub>
+<br/><br/>
+
+<a href="https://github.com/alaviarts/iGold">iGold</a>&nbsp;·&nbsp;
+<a href="https://github.com/alaviarts/Orylo">Orylo</a>&nbsp;·&nbsp;
+<a href="https://github.com/alaviarts/Nustro">Nustro</a>&nbsp;·&nbsp;
+<a href="https://github.com/alaviarts/Korven">Korven</a>
 
 </div>
 
-<sub>Also exploring [ORBIS](https://github.com/alaviarts/ORBIS), an interconnected view of human knowledge.</sub>
+<sub>Also exploring <a href="https://github.com/alaviarts/ORBIS">ORBIS</a>, an interconnected view of human knowledge.</sub>
 
 <br/>
 
