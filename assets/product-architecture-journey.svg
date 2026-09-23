@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="226" viewBox="0 0 1200 226" role="img" aria-labelledby="title description">
+<title id="title">Ali Alavi — The Product Architecture Journey</title>
+<desc id="description">A six-stage timeline beginning with independent development and iGold in April 2025, continuing through Orylo, Nustro, Nustro 3.5, recognizing a product architecture direction, and the creation of Korven in June 2026.</desc>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b22"/></linearGradient>
+<linearGradient id="timeline" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a88a58" stop-opacity=".35"/><stop offset=".5" stop-color="#c6a66f" stop-opacity=".8"/><stop offset="1" stop-color="#66ad9b" stop-opacity=".9"/></linearGradient>
+<radialGradient id="halo" cx="70%" cy="40%" r="65%"><stop offset="0" stop-color="#b79a6b" stop-opacity=".13"/><stop offset="1" stop-color="#b79a6b" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="226" rx="21" fill="url(#background)"/>
+<rect width="1200" height="226" rx="21" fill="url(#halo)"/>
+<rect x="1" y="1" width="1198" height="224" rx="20" stroke="#364048" fill="none"/>
+<g font-family="Inter, Segoe UI, Arial, sans-serif">
+<text x="50" y="33" fill="#e9edf2" font-size="13" font-weight="700" letter-spacing="2.1">THE PRODUCT ARCHITECTURE JOURNEY</text>
+<text x="1152" y="33" text-anchor="end" fill="#93a2ae" font-size="12" font-weight="600" letter-spacing="1.5">APR 2025 — JUN 2026</text>
+<line x1="108" y1="105" x2="1088" y2="105" stroke="url(#timeline)" stroke-width="2.1"/>
+<g fill="none" stroke="#47525e" stroke-width="1.2" opacity=".58">
+<line x1="108" y1="94" x2="108" y2="117"/><line x1="304" y1="94" x2="304" y2="117"/>
+<line x1="500" y1="94" x2="500" y2="117"/><line x1="696" y1="94" x2="696" y2="117"/>
+<line x1="892" y1="94" x2="892" y2="117"/><line x1="1088" y1="94" x2="1088" y2="117"/>
+</g>
+<g text-anchor="middle" font-size="13" font-weight="700" letter-spacing=".6" fill="#bfcbd5">
+<text x="108" y="79">APR 2025</text><text x="304" y="79">JUL 2025</text>
+<text x="500" y="79">SEP 2025</text><text x="696" y="79">APR 2026</text>
+<text x="892" y="79">MAY 2026</text><text x="1088" y="79">JUN 2026</text>
+</g>
+<g stroke="#172029" stroke-width="3.4">
+<circle cx="108" cy="105" r="8" fill="#dfbb7b"/><circle cx="304" cy="105" r="8" fill="#6eb8ff"/>
+<circle cx="500" cy="105" r="8" fill="#aa90e0"/><circle cx="696" cy="105" r="8" fill="#aa90e0"/>
+<circle cx="892" cy="105" r="8" fill="#e0e5e9"/><circle cx="1088" cy="105" r="8" fill="#73c4a9"/>
+</g>
+<g text-anchor="middle">
+<g font-size="18" font-weight="700" fill="#f0f3f6">
+<text x="108" y="147">iGold</text><text x="304" y="147">Orylo</text>
+<text x="500" y="147">Nustro</text><text x="696" y="147">Nustro 3.5</text>
+<text x="892" y="147">Product Architect</text><text x="1088" y="147">Korven</text>
+</g>
+<g font-size="11.6" fill="#aebcc7">
+<text x="108" y="167">Independent development</text><text x="304" y="167">Human–AI collaboration</text>
+<text x="500" y="167">Identity &amp; self-knowledge</text><text x="696" y="167">Model evolution</text>
+<text x="892" y="167">Professional direction</text><text x="1088" y="167">Organizational systems</text>
+</g>
+</g>
+<line x1="50" y1="188" x2="1150" y2="188" stroke="#37414b" stroke-width="1" opacity=".55"/>
+<text x="600" y="210" text-anchor="middle" fill="#a9b8c4" font-size="12" font-weight="500" letter-spacing=".6">FOUR PRODUCT DOMAINS  ·  ONE EVOLVING ARCHITECTURAL PRACTICE</text>
+</g>
+</svg>
