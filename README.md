@@ -36,11 +36,11 @@ That approach now spans **financial markets, collaborative projects, individual 
 
 ## The Path to Product & Systems Architecture
 
-**April 2025 to June 2026.** A transition from employment and freelance work to independent product development, spanning four products and a clearer professional direction.
+**April 2025 to November 2026.** A transition from employment and freelance work to independent product development and research, spanning five initiatives and a clearer professional direction.
 
 <div align="center">
 
-<img src="./assets/product-architecture-journey.svg" width="100%" alt="Six milestones: iGold in April 2025, Orylo in July 2025, Nustro in September 2025, Nustro 3.5 with NDNA and NCCM in April 2026, the choice of Product and Systems Architecture in May 2026, and Korven in June 2026.">
+<img src="./assets/product-architecture-journey.svg" width="100%" alt="Seven milestones: iGold, Orylo, Nustro, Nustro 3.5, Product and Systems Architecture, Korven, and the PBR research framework.">
 
 </div>
 
@@ -113,18 +113,30 @@ That approach now spans **financial markets, collaborative projects, individual 
 
 </td>
 </tr>
+<tr>
+<td valign="top"><strong>NOV 2026</strong><br/><sub>FINANCIAL MARKET RESEARCH</sub></td>
+<td valign="top">
+
+<h3><a href="https://github.com/alaviarts/PBR">PBR</a></h3>
+<p><sub>GEOMETRIC MARKET STRUCTURE FRAMEWORK</sub></p>
+
+<p>PBR is a distinct financial-market research initiative. My contribution encompasses mathematical formalization, original methodological extensions, software architecture, and instrument development. Its framework development is independent of iGold.</p>
+
+</td>
+</tr>
 </table>
 
 <div align="center">
 
-<strong>Four products. Four domains. One evolving practice.</strong>
+<strong>Five initiatives. One evolving architectural practice.</strong>
 
 <br/><br/>
 
 <a href="https://github.com/alaviarts/iGold">iGold</a>&nbsp;·&nbsp;
 <a href="https://github.com/alaviarts/Orylo">Orylo</a>&nbsp;·&nbsp;
 <a href="https://github.com/alaviarts/Nustro">Nustro</a>&nbsp;·&nbsp;
-<a href="https://github.com/alaviarts/Korven">Korven</a>
+<a href="https://github.com/alaviarts/Korven">Korven</a>&nbsp;·&nbsp;
+<a href="https://github.com/alaviarts/PBR">PBR</a>
 
 </div>
 
@@ -181,19 +193,12 @@ I design Human–AI environments in which contribution and authority remain dist
 <code>Governed Project Delivery</code>&nbsp;
 <code>Human Insight Systems</code>&nbsp;
 <code>Organizational Operations</code>&nbsp;
-<code>Human–AI Collaboration</code>
+<code>Human–AI Collaboration</code>&nbsp;
+<code>Financial Market Research</code>
 
-My product work spans **iGold**, **Orylo**, **Nustro**, and **Korven**: four distinct domains connected by a shared practice of understanding problems, modeling their underlying relationships, and architecting integrated systems.
+My product and research work spans **iGold**, **Orylo**, **Nustro**, **Korven**, and **PBR**: five distinct initiatives connected by a shared practice of understanding problems, modeling their underlying relationships, and architecting coherent systems.
 
 These projects are evolving at different stages. Their public repositories present the product vision, intended capabilities, and selected conceptual architecture; proprietary implementation remains private.
-
-### Independent Financial Market Research
-
-**PBR — Geometric Market Structure Framework**
-
-An independent research initiative focused on financial market behavior and analytical tools, originating in the PBR methodology developed by my trading mentor, رامین کحالزاده. My contribution encompasses mathematical formalization, original methodological extensions, and software architecture and development.
-
-PBR and iGold are distinct projects with separate origins and intellectual-property boundaries. PBR remains in private research and development; its proprietary methodology and implementation are confidential.
 
 <br/>
 
