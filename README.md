@@ -187,6 +187,12 @@ My product work spans **iGold**, **Orylo**, **Nustro**, and **Korven**: four dis
 
 These projects are evolving at different stages. Their public repositories present the product vision, intended capabilities, and selected conceptual architecture; proprietary implementation remains private.
 
+### Independent Financial Market Research
+
+**PBR — Geometric Market Structure Framework**
+
+An independent, proprietary research initiative focused on financial market behavior and analytical tools. PBR is currently in private research and development. Its methodology and implementation are confidential; no performance claims or public release commitments are made.
+
 <br/>
 
 <h2 align="center">Connect</h2>
