@@ -191,7 +191,9 @@ These projects are evolving at different stages. Their public repositories prese
 
 **PBR — Geometric Market Structure Framework**
 
-An independent, proprietary research initiative focused on financial market behavior and analytical tools. PBR is currently in private research and development. Its methodology and implementation are confidential; no performance claims or public release commitments are made.
+An independent research initiative focused on financial market behavior and analytical tools, originating in the PBR methodology developed by my trading mentor, رامین کحالزاده. My contribution encompasses mathematical formalization, original methodological extensions, and software architecture and development.
+
+PBR and iGold are distinct projects with separate origins and intellectual-property boundaries. PBR remains in private research and development; its proprietary methodology and implementation are confidential.
 
 <br/>
 
